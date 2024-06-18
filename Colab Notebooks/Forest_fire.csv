@@ -1,0 +1,40 @@
+Area,Oxygen,Temperature,Humidity,Fire Occurrence
+Brésil,40,45,20,1
+Japon,50,30,10,1
+Allemagne,10,20,70,0
+Inde,60,45,70,1
+Égypte,30,48,10,1
+Australie,50,15,30,0
+Mexique,5,35,35,0
+Russie,5,20,70,0
+Espagne,60,32,19,1
+Turquie,30,50,45,1
+Singapour,40,55,80,1
+Nigeria,30,39,100,0
+Norvège,10,12,12,0
+Corée du Sud,20,23,23,0
+Argentine,60,34,15,1
+Suède,80,4,68,0
+Arabie saoudite,25,56,79,1
+Italie,12,45,90,0
+Indonésie,28,43,15,1
+Afrique du Sud,26,0,32,0
+France,32,37,21,1
+Chine,45,48,12,1
+Royaume-Uni,56,15,65,0
+États-Unis,67,45,33,1
+Thaïlande,78,49,8,1
+Pérou,89,45,18,1
+Colombie,21,12,44,0
+Vietnam,11,20,59,0
+Iran,1,32,70,0
+Pakistan,5,20,45,0
+Malaisie,42,43,20,1
+Pologne,32,60,30,1
+Venezuela,5,15,5,0
+Ukraine,20,30,5,0
+Nouvelle-Zélande,30,51,2,1
+Israël,60,60,10,1
+Portugal,10,10,60,0
+Irlande,0,30,0,0
+Grèce,45,45,15,1
